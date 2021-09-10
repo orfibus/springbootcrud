@@ -3,6 +3,7 @@ package gr.publicsoft.springbootcrud.model;
 import org.hibernate.validator.constraints.NotBlank;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import static gr.publicsoft.springbootcrud.Constants.SIZE_M;
