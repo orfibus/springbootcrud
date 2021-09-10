@@ -42,6 +42,31 @@ export default {
           name: 'vatNumber',
           title: 'ΑΦΜ',
           sortField: 'vatNumber'
+        },
+        {
+          name: 'irsOffice',
+          title: 'ΔΟΥ',
+          sortField: 'irsOffice'
+        },
+        {
+          name: 'address',
+          title: 'Διεύθυνση',
+          sortField: 'address'
+        },
+        {
+          name: 'zipCode',
+          title: 'T.K.',
+          sortField: 'zipCode'
+        },
+        {
+          name: 'city',
+          title: 'Πόλη',
+          sortField: 'city'
+        },
+        {
+          name: 'country',
+          title: 'Χώρα',
+          sortField: 'country'
         }
       ]
     }
